@@ -91,3 +91,6 @@ Distribuído sob os termos especificados no arquivo `LICENSE`.
 ---
 
 **Enviro Mind** – Inteligência Artificial aplicada à vigilância ambiental, com base científica, foco regulatório e precisão eletroquímica.
+
+
+Acesse também o Agente GPT inspirado na aplicação: https://chatgpt.com/g/g-6838d57619b88191a0c670f780ae3c0c-gpt-enviro
