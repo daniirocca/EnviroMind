@@ -1,0 +1,23 @@
+DOCUMENTO 2 – POLÍTICAS E NORMATIVAS AMBIENTAIS
+
+Este documento reúne os principais referenciais normativos utilizados para avaliação da qualidade da água e gestão de riscos relacionados a metais tóxicos.
+
+1. LEGISLAÇÃO E LIMITES:
+   - CONAMA 357/2005 – Classe de água doce e salobra
+   - Organização Mundial da Saúde (OMS) – Padrões de potabilidade
+   - CETESB – Valores orientadores para águas superficiais e sedimentos
+
+2. PARÂMETROS REGULADOS:
+   - Limites máximos permitidos (mg/L) para Hg, Pb, Cd, As, Zn, Cu, Cr
+   - NOEC, LOEC e fatores de segurança para cálculo de risco
+
+3. AÇÕES RECOMENDADAS EM CASO DE EXCEDÊNCIA:
+   - Suspensão de uso de água e pesca
+   - Notificação a órgãos ambientais competentes
+   - Implantação de barreiras, uso de adsorventes, fitorremediação
+
+4. REFERENCIAIS TÉCNICOS:
+   - FAO, EPA, IBAMA, ANA
+   - Diretrizes internacionais sobre poluição hídrica
+
+Este documento orienta decisões baseadas em conformidade legal e segurança ambiental.

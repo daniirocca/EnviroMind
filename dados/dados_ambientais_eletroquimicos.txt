@@ -1,0 +1,25 @@
+DOCUMENTO 1 – DADOS AMBIENTAIS E ELETROQUÍMICOS
+
+Este documento reúne informações operacionais e analíticas obtidas a partir de sensores e dispositivos de medição eletroquímica em campo. Inclui dados de curvas voltamétricas (ASV, DPV), parâmetros ambientais e histórico de medições.
+
+1. PARÂMETROS MEDIDOS:
+   - Potencial vs Corrente (curvas voltamétricas)
+   - pH, Eh, temperatura, turbidez, condutividade elétrica
+   - Dados de precipitação, uso do solo, sazonalidade
+
+2. DETECÇÃO DE METAIS:
+   - Identificação de picos de oxidação/redução
+   - Associação com íons metálicos (ex: Pb²⁺, Cd²⁺, Hg²⁺, As³⁺)
+   - Estimativa de concentração com base em curvas de calibração
+
+3. INTERPRETAÇÃO:
+   - Correções com base em pH/Eh para estimar biodisponibilidade
+   - Comparação com registros históricos locais
+   - Avaliação de risco com base em HQ e RCR
+
+4. TECNOLOGIAS SUPORTADAS:
+   - Voltametria de redissolução anódica (ASV)
+   - Voltametria de pulso diferencial (DPV)
+   - Modelos de adsorção (Langmuir, Freundlich)
+
+Este documento é a base para análises operacionais e interpretações científicas diretas de campo.
