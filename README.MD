@@ -3,7 +3,7 @@
 **Enviro Mind** é um sistema inteligente voltado à **análise e interpretação de dados eletroquímicos voltamétricos** (ex. ASV – Voltametria de Redissolução Anódica), com foco no **monitoramento ambiental de metais pesados em corpos hídricos**. O agente utiliza técnicas avançadas de **IA** para interpretar dados brutos e imagens de voltamogramas, estimar concentrações com base em curvas de calibração e verificar conformidade com padrões legais estabelecidos por **CONAMA, OMS e CETESB**.
 
 
-https://drive.google.com/file/d/1j4t84dITbhSJM1oeRMMogfKlTThGJoQ2/view?usp=sharing
+https://drive.google.com/file/d/1PWwJRwmM8e7tKICu1S1JKCP9mZlMOOTX/view?usp=sharing
 
 ---
 
